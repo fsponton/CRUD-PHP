@@ -1,0 +1,2 @@
+para correr el servidor es necesario entrar a la ubicacion de la api y correr el comando "php -S localhost:8000". De esta manera el servidor estara escuchando en el puerto 8000. Es necesario apache y mysql (que estan en xampp) este starteados.
+ 
